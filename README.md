@@ -3,4 +3,4 @@
  1- Sistema de avaliação das notas do alunos.
 
 
- 2- Sistema de Locadora d Veículos.
+ 2- Sistema de Locadora de Veículos.
